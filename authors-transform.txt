@@ -43,3 +43,5 @@ uid52720 = Bob Jacobsen <jacobsen@mac.com>
 wsb56 = Bernd Wisotzki <ba@modellbahn.wisotzki.org>
 zoo = david d zuhn <zoo@statebeltrailway.org>
 trstack = Tom Stack <trstack@earthlink.net>
+jselinger = Josef Selinger <selinger.josef@gmail.com>
+
